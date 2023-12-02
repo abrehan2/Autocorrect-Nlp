@@ -48,5 +48,6 @@ This repository contains Python code for text preprocessing and manipulation, in
 To effectively use this repository:
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/abrehan2/Auto-Correct.git
+ ```sh
+git clone https://github.com/abrehan2/Autocorrect-Nlp.git
+```
